@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natalia\\Desktop\\MiniJuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj": {}
+    "C:\\Users\\Natalia\\Desktop\\Minijuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natalia\\Desktop\\MiniJuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj": {
+    "C:\\Users\\Natalia\\Desktop\\Minijuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia\\Desktop\\MiniJuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
+        "projectUniqueName": "C:\\Users\\Natalia\\Desktop\\Minijuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
         "projectName": "VegaJuego",
-        "projectPath": "C:\\Users\\Natalia\\Desktop\\MiniJuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
+        "projectPath": "C:\\Users\\Natalia\\Desktop\\Minijuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
         "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Natalia\\Desktop\\MiniJuego\\MiniJuego\\VegaJuego\\obj\\",
         "projectStyle": "PackageReference",
