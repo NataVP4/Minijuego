@@ -52,7 +52,7 @@
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.BackgroundImage = Properties.Resources.salud;
             pictureBox1.BackgroundImageLayout = ImageLayout.Center;
-            pictureBox1.Location = new Point(587, 130);
+            pictureBox1.Location = new Point(587, 131);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(43, 39);
             pictureBox1.TabIndex = 0;
@@ -76,7 +76,7 @@
             pictureBox2.BackColor = Color.Transparent;
             pictureBox2.BackgroundImage = Properties.Resources.escudo;
             pictureBox2.BackgroundImageLayout = ImageLayout.Center;
-            pictureBox2.Location = new Point(587, 178);
+            pictureBox2.Location = new Point(587, 179);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(43, 39);
             pictureBox2.TabIndex = 4;
@@ -99,7 +99,7 @@
             Escudo.BackColor = Color.Transparent;
             Escudo.Font = new Font("Segoe UI Black", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
             Escudo.ForeColor = Color.Gold;
-            Escudo.Location = new Point(636, 190);
+            Escudo.Location = new Point(635, 189);
             Escudo.Name = "Escudo";
             Escudo.Size = new Size(68, 23);
             Escudo.TabIndex = 6;
@@ -124,7 +124,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.FondoFinal1;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(804, 459);
+            ClientSize = new Size(805, 459);
             Controls.Add(Arma);
             Controls.Add(Escudo);
             Controls.Add(pictureBox3);
@@ -137,6 +137,7 @@
             Name = "Level1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "VegaZelda";
+            FormClosed += Level1_FormClosed;
             KeyPress += Level1_KeyPress;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
